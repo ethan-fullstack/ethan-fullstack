@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sheltza.com/blog/personal_brand_color.png" alt="Logo personal de Esteban Hernandez" width="250" style="border-radius: 20px;">
+  <img src="https://sheltza.com/founder/github_personal_brand_color.png" alt="Logo personal de Esteban Hernandez" width="250" style="border-radius: 20px;">
 </div>
 
 # 💫 About Me:
