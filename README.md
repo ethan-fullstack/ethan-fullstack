@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://sheltza.com/blog/personal_brand_color.png" alt="Logo personal de Esteban Hernandez" width="250" style="border-radius: 20px;">
+</div>
+
 # 💫 About Me:
 🔭 Actualmente estoy trabajando en la implementación de soluciones impulsadas por IA y explorando el potencial del aprendizaje automático en diversos ámbitos.<br>🌎 Estoy buscando colaborar en proyectos emocionantes que involucren tecnologías de vanguardia y tengan un impacto positivo en la sociedad.<br>🤝 Estoy buscando ayuda con algoritmos y técnicas avanzadas de IA, así como para mantenerme al día con los últimos avances en el campo.<br>🌱 Actualmente estoy aprendiendo modelos y algoritmos avanzados de aprendizaje automático.<br>💬 Pregúntame sobre mi experiencia en desarrollo fullstack, gestión de bases de datos y cómo integro tecnologías de IA en soluciones de software.<br>⚡ Dato curioso: Disfruto participar en hackathons y competiciones de programación para desafiarme a mí mismo y explorar ideas innovadoras con otros desarrolladores.
 
